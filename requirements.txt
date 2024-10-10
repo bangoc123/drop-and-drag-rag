@@ -4,3 +4,6 @@ chromadb
 google-generativeai
 ipython
 pdfplumber
+openai
+tiktoken
+nltk
